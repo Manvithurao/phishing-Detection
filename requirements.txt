@@ -1,0 +1,11 @@
+flask
+scikit-learn
+xgboost
+pandas
+numpy
+beautifulsoup4
+requests
+python-whois
+joblib
+tldextract
+flask-limiter
